@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+August 3, 2018
 
 ### Student Name:  
-(First and Last Name)
+Thomas Cascio
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Built an application that displays information about movies. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+ https://tdc16.github.io/lesson8_ajax
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. API is a set of programming instructions and standards for accessing a web-based software application or web tool.
+2. AJAX allows the user to load data from the server without a browser page refresh. This allows for creating better, faster, and more interactive web applications with the help of HTML, CSS, and JavaScript.
+3. JSON is a lightweight text-based open standard designed for human-readable data interchange. It is an extension of the JavaScript scripting language
